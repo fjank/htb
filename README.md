@@ -1,2 +1,2 @@
 # htb
-Solutions/WIP to hackthebox.eu machinges/challenges/labs
+Solutions/WIP to hackthebox.eu machines/challenges/labs
